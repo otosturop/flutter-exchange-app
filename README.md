@@ -10,6 +10,7 @@ This project is a starting point for a Flutter application.
 
 A few resources used in the project:
 
+- [Fancy Bottom Navigation](https://pub.dev/packages/fancy_bottom_navigation)
 - [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter)
 - [Fluttertoast ](https://pub.dev/packages/fluttertoast)
 - [Firebas Admob ](https://pub.dev/packages/firebase_admob)
