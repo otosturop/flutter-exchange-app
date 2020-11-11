@@ -1,4 +1,4 @@
-# dovizhesaplayici
+# flutter_blocpattern
 
 Döviz Çevirici
 
