@@ -3,7 +3,7 @@ import 'package:dovizhesaplayici/model/ExchangeModel.dart';
 import 'package:http/http.dart' as http;
 
 class MoneyApi {
-  static const baseUrl = "https://tranquil-tundra-90576.herokuapp.com/botdoviz.php";
+  static const baseUrl = "***";
   final http.Client httpClint = http.Client();
 
   Future<ExchangeModel> getExchange() async {
