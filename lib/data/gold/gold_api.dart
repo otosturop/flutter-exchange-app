@@ -3,7 +3,7 @@ import 'package:dovizhesaplayici/model/GoldModel.dart';
 import 'package:http/http.dart' as http;
 
 class GoldApi {
-  static const baseUrl = "https://tranquil-tundra-90576.herokuapp.com/botaltin.php";
+  static const baseUrl = "***";
   final http.Client httpClient = http.Client();
 
   Future<GoldModel> getGolds() async {
